@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+#### Integrantes del grupo de trabajo
+
+- Cristian Camilo Loaiza Angulo
+- Jeisson Alonso Gomez Herrera
+- Johan Esteban Canas Ossa
+- Joan Estiben Vargas Sanchez
+- Oscar Javier Romero Beltran
